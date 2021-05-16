@@ -1,0 +1,3 @@
+[submodule "EmotionApp"]
+	path = EmotionApp
+	url = ../EmotionApp
